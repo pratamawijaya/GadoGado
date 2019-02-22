@@ -1,0 +1,1 @@
+/Users/pratama/Documents/Workspace/Research/GadoGado/buildSrc/build/classes/kotlin/main/Versions.class
